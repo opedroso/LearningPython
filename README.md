@@ -19,8 +19,7 @@ For best results using this project, use VSCode and load the following VSCode ex
 - Markdown PDF (1.2.0)          # general app that allows to view side by side markdown files as well as generate PDFs
 
 ## Starting up
-
-Start by forking the original project (eduardokuhn/LearningPython) to your GitHub user, which will create your-github-username/LearningPython project. You can do this by visiting https://github.com/your-github-username/LearningPython and clicking on Clone (select HTTPS option), then select to copy this project's URL to your clipboard.
+Start by forking the original project (eduardokuhn/LearningPython) to your GitHub user, which will create your-github-username/LearningPython project. You can do this by visiting https://github.com/your-github-username/LearningPython and clicking on Fork
 
 Then clone your forked project to your computer, by getting a CMD window and typing something like this (the project URL is pasted from the clipboard):
 
